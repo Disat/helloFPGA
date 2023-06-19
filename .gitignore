@@ -7,5 +7,12 @@
 # Ignore design database info file
 *.db_info
 
+*.bak
+
+helloFPGA_description.txt
+
 # Ignore Quatus II gernerated folders
 */db/
+*/incremental_db/
+*/output_files/
+*/simulation/
