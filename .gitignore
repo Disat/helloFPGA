@@ -1,0 +1,11 @@
+# Ignore Quartus II runtime database lock files
+*.rdr.flock
+
+# Ignore runtime database file
+*.rdb
+
+# Ignore design database info file
+*.db_info
+
+# Ignore Quatus II gernerated folders
+*/db/
